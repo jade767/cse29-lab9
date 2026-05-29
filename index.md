@@ -1,3 +1,4 @@
+theme: jekyll-theme-minimal
 *Hello*
 ---
 # Where will i go?
